@@ -1,6 +1,6 @@
 # rpi-gpio
 
-Este trabalho visa ilustrar todos os processos necessarios para controlar os pinos de GPIO da raspberry pi 3 model B. 
+Este trabalho visa ilustrar todos os processos necessarios para controlar os pinos de GPIO da Raspberry Pi. 
 
 A linguagem utilizada no desenvolvimento dos codigos foi C e a biblioteca adotada foi a sysfs.
 
