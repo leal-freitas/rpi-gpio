@@ -1,3 +1,11 @@
+/*
+*** Configurando os pinos de GPIO como OUTPUT na RPI ***
+*** Autor: Andre Leal de Freitas ***
+*** Board: RPI 3 model B ***
+*** Versao: 1
+*/
+
+
 #include <sys/stat.h>
 #include <sys/types.h>
 #include <fcntl.h>
